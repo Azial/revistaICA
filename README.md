@@ -1,0 +1,2 @@
+# revistaICA
+Revista Semestral ICA
